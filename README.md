@@ -1,7 +1,7 @@
 Sound-printer
 =============
 
-School project - create an instant visual of sound with Processing [export it in .STL, 3D printer compatible]
+School project - create an instant visual of sound with Processing [export in .STL, ready for 3D printing]
 
 • Minim library required
 
