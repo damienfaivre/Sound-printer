@@ -3,9 +3,11 @@ Sound-printer
 
 #### create an instant visual of sound with Processing [export in .STL, ready for 3D printing]
 
-**• Minim library required**
+**• Minim library required (already included in Processing)**
 
-Put all the files in a folder named "SoundPrinter" before running the sketch.
+**• Modelbuilder library [here](http://workshop.evolutionzone.com/2011/04/06/code-modelbuilder-library-public-release/)**
+
+Put all the files in a folder named "SoundPrinter" before running the sketch. Works fine with `Processing 2.0b8`.
 
 **• press "e" to export .STL**
 
